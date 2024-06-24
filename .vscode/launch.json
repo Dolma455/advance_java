@@ -1,0 +1,62 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Image1",
+      "request": "launch",
+      "mainClass": "Image1",
+      "projectName": "AdJava_7e3b3cb4"
+    },
+    {
+      "type": "java",
+      "name": "DisplayImage",
+      "request": "launch",
+      "mainClass": "DisplayImage",
+      "projectName": "AdJava_7e3b3cb4"
+    },
+    {
+      "type": "java",
+      "name": "DisplayGraphics",
+      "request": "launch",
+      "mainClass": "DisplayGraphics",
+      "projectName": "AdJava_7e3b3cb4"
+    },
+    {
+      "type": "java",
+      "name": "RegisterController",
+      "request": "launch",
+      "mainClass": "RegisterController",
+      "projectName": "AdJava_7e3b3cb4"
+    },
+    {
+      "type": "java",
+      "name": "DbConnect",
+      "request": "launch",
+      "mainClass": "DbConnect",
+      "projectName": "AdJava_7e3b3cb4"
+    },
+    {
+      "type": "java",
+      "name": "App",
+      "request": "launch",
+      "mainClass": "App",
+      "projectName": "AdJava_bddfdb94"
+    },
+    {
+      "type": "java",
+      "name": "Calculator",
+      "request": "launch",
+      "mainClass": "Calculator",
+      "projectName": "AdJava_bddfdb94"
+    },
+    {
+      "type": "java",
+      "name": "Launch Calculator",
+      "request": "launch",
+      "mainClass": "Calculator",
+      "vmArgs": "--module-path C:\\Users\\Admin\\OneDrive\\Desktop\\Ad Java\\javafx-sdk-22.0.1\\lib --add-modules javafx.controls,javafx.fxml",
+      "projectName": "AdJava"
+    }
+  ]
+}
